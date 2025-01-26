@@ -115,6 +115,4 @@ See the [CHANGELOG](CHANGELOG.md) which contains migration guides for instructio
 
 To support IE, you'll need to provide an `Array.find` polyfill.
 
-## License
 
-MIT
